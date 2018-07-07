@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">AndroidProgramming</string>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_text">冰是热的吗？</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="menu_setting">Setting</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
 </resources>
