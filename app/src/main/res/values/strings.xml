@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
 
-    <string name="question_text1">冰是热的吗？</string>
-    <string name="question_text2">糖是甜的吗？</string>
-    <string name="question_text3">武汉市在湖南省吗？</string>
-    <string name="question_text4">一年有12个月吗？</string>
-    <string name="question_text5">今年是2018年吗？</string>
-    <string name="question_text6">作者是男的吗？</string>
+    <string name="question_text1">1.冰是热的吗？</string>
+    <string name="question_text2">2.糖是甜的吗？</string>
+    <string name="question_text3">3.武汉市在湖南省吗？</string>
+    <string name="question_text4">4.一年有12个月吗？</string>
+    <string name="question_text5">5.今年是2018年吗？</string>
+    <string name="question_text6">6.作者是男的吗？</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="prev_button">Prev</string>
@@ -14,4 +14,9 @@
     <string name="menu_setting">Setting</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
 </resources>
